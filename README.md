@@ -1,6 +1,6 @@
 # Image-Classification-MNIST-CNN
 ## Image Classification using CNN with the following files:
-* Mnist Train
+* Mnist Train (missing on the repository, too large. Can be found here: https://www.kaggle.com/datasets/oddrationale/mnist-in-csv?select=mnist_train.csv)
 * Mnist Test
 
 #### The aim of this notebook is to explore the creation of a CNN model for CV (Computer Vision) and the data treatment on input data images
